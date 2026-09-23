@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+out/
+.env*
+*.log
+*.wav
+*.mp3
+*.mp4
+*.zip
+.DS_Store
